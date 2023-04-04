@@ -1,0 +1,11 @@
+{
+  "repoType": "github",
+  "repoDetails": {
+    "login": "arisarcmarket",
+    "repo": "masterchef",
+    "branch": "master"
+  },
+  "name": "masterchef",
+  "description": "master cheff",
+  "version": "1.0.0"
+}
